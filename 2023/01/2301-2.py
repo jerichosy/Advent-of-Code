@@ -1,4 +1,4 @@
-with open("2023/1/input.txt", "r") as f:
+with open("input.txt", "r") as f:
     lines = f.readlines()
 
 def isdigit(char, line: str, side):
